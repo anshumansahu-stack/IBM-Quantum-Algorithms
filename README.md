@@ -1,6 +1,6 @@
-# Running Deutsch & Deutsch–Jozsa Algorithms on IBM Quantum Hardware
+# Implementing Quantum Algorithms on IBM Quantum Hardware
 
-This repository contains implementations and real-hardware executions of the **Deutsch Algorithm** and the **Deutsch–Jozsa Algorithm** using IBM Quantum superconducting processors via Qiskit Runtime.  
+This repository contains implementations and real-hardware executions including the **Deutsch Algorithm** and the **Deutsch–Jozsa Algorithm** using IBM Quantum superconducting processors via Qiskit Runtime.  
 The goal of this project is to demonstrate the evolution of a simple quantum decision algorithm and observe how execution outcomes change as the number of qubits and oracle complexity increases on real devices.
 
 **Note:** parts of the code, debugging workflow, and script structuring were assisted by AI tools (Google Gemini 3.0 and Anthropic Claude) for iterative code generation and refinement.
